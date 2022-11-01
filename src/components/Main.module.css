@@ -1,0 +1,17 @@
+.btn
+{
+    width: 100%;
+    text-align: center;
+    padding: 24px 32px;
+    gap: 8px;
+    margin: 0 0 30px 0;
+    box-sizing: border-box;
+    border: 1px solid #EAECF0;
+    border-radius: 8px;
+    background:  #EAECF0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+}
